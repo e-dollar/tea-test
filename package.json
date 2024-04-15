@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/e-dollar/tea-test/issues"
   },
+ "publishConfig": {
+  "@e-dollar:registry": "https://npm.pkg.github.com"
+},
   "homepage": "https://github.com/e-dollar/tea-test#readme"
 }
