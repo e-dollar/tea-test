@@ -1,23 +1,10 @@
-Project Name: tea testnet
+initia 
+Initiation-1
 
-Description:
+Initia is a Network for Interwoven Rollups
 
-The teatestnet Platform is an online community-driven platform aimed at sharing, discovering, and discussing recipes. It provides a space for users to upload their favorite recipes, explore recipes shared by others, and engage in culinary discussions. Leveraging modern web technologies, this platform aims to foster a vibrant community of food enthusiasts and encourage culinary creativity.
+In the ever-evolving landscape of the blockchain world, Initia stands as a beacon of innovation and simplicity. We are on a mission to redefine the multi-chain network experience from the ground up. By seamlessly integrating architecture, product, and economic systems, Initia offers a holistic solution that transforms how networks operate, feel, and interact. This is why we call Initia a network for interwoven rollups. 
 
-Features:
+learn more about initia here
 
-Recipe Upload: Users can upload their own recipes, including ingredients, cooking instructions, and images.
-
-Recipe Discovery: Browse and search for recipes based on categories, cuisines, ingredients, and user ratings.
-
-Recipe Rating and Reviews: Rate and review recipes to provide feedback and recommendations to other users.
-
-Social Interaction: Like, share, and comment on recipes to engage with the community and foster culinary discussions.
-
-User Profiles: Customize profiles with personal information, cooking preferences, and favorite recipes.
-
-Cooking Tips and Tricks: Share cooking tips, tricks, and kitchen hacks with the community to enhance culinary skills.
-
-Bookmarking: Save favorite recipes for later reference and create personalized recipe collections.
-
-Recipe Recommendations: Receive personalized recipe recommendations based on browsing history and preferences.
+https://docs.initia.xyz/
